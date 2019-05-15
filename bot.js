@@ -46,7 +46,7 @@ bot.on('ready', () => {
    // bot.user.setActivity("Some rubbish go down in DMs.", {type: "WATCHING"});
   //  bot.user.setActivity(`in ${bot.guilds.size} discord servers.`, {type: "PLAYING"});
   // bot.user.setActivity(`the clock. Going offline for maintenance in 2 min`, {type: "WATCHING"});
-  bot.user.setActivity(`With a new verion (${stats.version})`, {type: "PLAYING"});
+  bot.user.setActivity(`Over the Axyos server`, {type: "WATCHING"});
 });
 
 bot.on('message', async message => {
